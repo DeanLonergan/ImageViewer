@@ -5,7 +5,7 @@ import java.io.File;
 /**
  * Utilities class.
  *
- * @author Dean Lonergan (20092570)
+ * @author Dean Lonergan
  */
 public class Utilities {
 
